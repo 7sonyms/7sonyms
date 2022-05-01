@@ -1,16 +1,14 @@
-##### Hey there 👋
+<h1 align="center">Hi 👋, I'm Hussain</h1>
+<h3 align="center">Unity Game Developer</h3>
 
-I'm Hussain from Saudi Arabia, and I develop games as a hobby. I enjoy making projects from scrach to their completion, and love to try new things always.
-I'm very passionate about blockchain development and aiming to be one of the pioneers in this field. 
+- 🌱 I’m currently learning **Blockchain Development**
 
+- 📫 How to reach me **huseen-2009@hotmail.com**
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I8SUem0ITZo5Wro0xKXKa5FSpKuf0rrp/view?usp=sharing](https://drive.google.com/file/d/1I8SUem0ITZo5Wro0xKXKa5FSpKuf0rrp/view?usp=sharing)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-<!---
-7sonyms/7sonyms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
